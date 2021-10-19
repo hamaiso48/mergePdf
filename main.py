@@ -44,4 +44,4 @@ class PDFMerge:
         output_writer.write(self.o)
 
 if __name__ == '__main__':
-	pdfmerge = PDFMerge() 
+	pdfmerge = PDFMerge()
